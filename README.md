@@ -3,7 +3,7 @@
 
 ## 🖼️ NFT Stealer / Drainer Template / Fake Mint Website
 
-![preview](https://cdn.discordapp.com/attachments/954051921709252641/971157628694700032/unknown.png)
+![preview](https://cdn.discordapp.com/attachments/964935413766701067/971661212460933140/Screenshot_2022-05-05_120404.png)
 
 # 💡 Features
 - [x] Inspect Element Detection

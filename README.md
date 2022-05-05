@@ -1,4 +1,4 @@
-# ⚠️ Beware of scams, this is the real repo
+# ⚠️ Beware of scams, this source don't have any back doors !
 ### If you need any help, DM me here: [@cryptoscem](https://t.me/cryptoscem)
 
 ## 🖼️ NFT Stealer / Drainer Template / Fake Mint Website
